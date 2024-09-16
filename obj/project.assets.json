@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Arthur\\.nuget\\packages\\": {}
+    "C:\\Users\\ANDREA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dev\\Stopwatch\\Stopwatch.csproj",
+      "projectUniqueName": "C:\\dev\\Stopwatch\\Stopwatch.csproj",
       "projectName": "Stopwatch",
-      "projectPath": "E:\\dev\\Stopwatch\\Stopwatch.csproj",
-      "packagesPath": "C:\\Users\\Arthur\\.nuget\\packages\\",
-      "outputPath": "E:\\dev\\Stopwatch\\obj\\",
+      "projectPath": "C:\\dev\\Stopwatch\\Stopwatch.csproj",
+      "packagesPath": "C:\\Users\\ANDREA\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\Stopwatch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Arthur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ANDREA\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
